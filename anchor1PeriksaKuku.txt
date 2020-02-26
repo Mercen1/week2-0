@@ -1,0 +1,11 @@
+ PSUEDOCODE PERIKSA KUKU 40 MURID
+
+
+ SET X TO MURID i ;
+ FOR i = 1 to 40 ;
+   IF ( MURID i EQUAL "memiliki kuku yang panjang" );
+     DISPLAY ("guru akan menghukum);
+   ELSE 
+     DISPLAY ("guru akan memuji" );
+   END
+   
