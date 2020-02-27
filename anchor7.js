@@ -11,7 +11,7 @@ for( var i = 1  ; i <= row1; i++ ) {
 
 
 console.log( '----------------------------------------------' )
-// Menyusun Barisan Bintang Dengan Nested Looping
+// 2. Menyusun Barisan Bintang Dengan Nested Looping
 
 var row2 = 5;
 
@@ -27,6 +27,7 @@ for( var i = 1  ; i <= row2; i++ ) {
 }
 
 console.log( '----------------------------------------------' )
+// 3. Menyusun Barisan Tangga Bintang Dengan Nested Looping
 var row3 = 5;
 
 for (var i = row3; i >=1; i--) {
