@@ -1,7 +1,6 @@
-var hari = 50;
+var hari = 1;
 var bulan =12;
 var tahun = 2020;
-var bulanX = ''
 
 switch(true){
     case hari <= 0 || hari >= 32:
@@ -55,8 +54,6 @@ switch(bulan){
     case 1:
         bulan = "Januari";
         break;
-    default:
-        console.log('')
     
 }
 
