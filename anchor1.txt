@@ -1,0 +1,46 @@
+// pseudocode Menghitung Resultan Gaya Hukum Newtown ;
+
+ STORE Massa (M = 600) ;
+ STORE Percepatan (a = 2) ;
+ COMPUTER Result Gaya (ΣF) = Masa(M) * Percepatan (a) ;
+ DISPLAY Hasil Result Gaya(ΣF) ;
+ end
+
+
+-------------------------------------------------------------------
+// PSUEDOCODE LAUNDRY DAY
+
+ STORE "cloth" to JumlahPakaian ;
+  WHILE ( cloth LESS THAN 20 ) ;
+    ADD Cloth REPEAT-UNTIL cloth EQUAL 20 ;
+  IF ( cloth = 20 ) ;
+    DISPLAY ("Cuci Pakaian dengan Mesin Cuci Sekarang") ;
+  END
+
+-------------------------------------------------------------------
+//PSUEDOCODE PERIKSA KUKU 40 MURID
+
+
+ SET X TO MURID i ;
+ FOR i = 1 to 40 ;
+   IF ( MURID i EQUAL "memiliki kuku yang panjang" );
+     DISPLAY ("guru akan menghukum);
+   ELSE 
+     DISPLAY ("guru akan memuji" );
+   END
+
+-------------------------------------------------------------------
+//PSUEDOCODE TAHUN KABISAT
+
+STORE "age" to any number;
+
+IF ( "age" mod 4 EQUAL TO 0  AND "age" mod 100 NOT EQUAL TO 0);
+    DISPLAY ("Tahun age adalah tahun Kabisat");
+  ELSE IF ( "age" mod 4 EQUAL 0 ) AND ("age" mod 100 EQUAL 0) AND ("age" mod 400  EQUAL 0);
+    DISPLAY ("Tahun age adalah tahun Kabisat");
+  ELSE
+    DISPLAY ("Tahun age Bukan tahun Kabisat");
+
+
+
+   
